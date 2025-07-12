@@ -11,6 +11,6 @@ This dashboard is designed to present flower data—such as Flower Name, Common 
 
 
 #### DASHBOARD
-<img src="[https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/05a7c16fcc5daf717fc4e83c1a54758ceec5998e/Slide1.jpg](https://github.com/user-attachments/assets/cf1552b9-7494-44df-84ec-ed9ac26cfb8e](https://github.com/Sourabh3024/Flower_Plants-Dashboard/blob/88c8e05c1f114e9e4afd0042c7d154042cbbe337/Flower_Plants_Dashboard.jpg)" width="600">
+<img src="https://github.com/Sourabh3024/Flower_Plants-Dashboard/blob/66c9b13d5fb6c3f95b2e29b85b7a8c3eb9d96ccb/Flower_Plants_Dashboard.jpg" width="600">
 
 
